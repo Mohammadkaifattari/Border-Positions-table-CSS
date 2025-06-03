@@ -1,0 +1,63 @@
+.i{
+    empty-cells: hide;
+    background-color: blueviolet;
+}
+table{
+
+    border-spacing: 10px;
+
+
+}
+.i{
+
+    background-color: blue;
+}
+h1{color: aqua;}
+
+#t{
+    color: brown; cursor: default;
+}
+h1{color: aqua !important;}
+P{
+
+    opacity: 0.5;
+    background-color:aqua;
+    display: ;
+    width: 500px;
+    height: 500px;
+    position:absolute
+    
+    
+}
+nav{ 
+    
+    color: purple;
+    background-color: yellow;
+  box
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+    width: 90px;
+    position: fixed;
+    right: 100px;
+    
+    box-shadow:1px 1px 1px 1px ;
+    
+    
+    
+    
+}
+nav:active{
+    color: palegreen;
+}
+nav:focus{
+    color: blue;
+    background-color: brown;
+}
+footer{ color: yellow;
+    background-color: green;
+    font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
